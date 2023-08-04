@@ -1,15 +1,14 @@
 What is the cause for Higher Sales. 
+
 We created many different graphs and data columns to determine this.
 
 Author: Joshua Rohn
 
-Business problem:
-Trying to find a reason for the end of season sales and how can it be improved.
+Business problem:Trying to find a reason for the end of season sales and how can it be improved.
 
-Data:
-The data is taken from 'sales_predictions_2023.csv'
+Data:The data is taken from 'sales_predictions_2023.csv'
 
-Methods
+Methods:
 We cleaned the data with no leakage. The graphs are one variable and then two variable with the target variable Outlet_Sales as the second variable.
 
 Item Visibility vs Item Outlet Sales
