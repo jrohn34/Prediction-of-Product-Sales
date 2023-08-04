@@ -1,22 +1,22 @@
-# What is the cause for Higher Sales.
+# How can we Increase Sales
 
 We created many different graphs and data columns to determine this.
 
-Author: Joshua Rohn
+## Author: Joshua Rohn
 
-# Business problem:
+## Business problem:
 
 Trying to find a reason for the end of season sales and how can it be improved.
 
-# Data:
+## Data:
 
 The data is taken from 'sales_predictions_2023.csv'
 
-# Methods:
+## Methods:
 
 We cleaned the data with no leakage. The graphs are one variable and then two variable with the target variable Outlet_Sales as the second variable.
 
-# Visuals:
+## Visuals:
 
 Item Visibility vs Item Outlet Sales
 
@@ -30,7 +30,7 @@ Outlet_Type vs. Item_Outlet_Sales
 
 Here we see that there is a correlation between the type of market and sales. We see that Grocery sales are lacking and we see that the super market type 1 is the same as type 2 but type 1 has a lot more locations so it is doing worse than the other super markets. The best out of the four would be super market 3.
 
-# Model:
+## Model:
 
 The model that is going to be used is the tuned random forest model. 
 
@@ -39,14 +39,14 @@ The the tuned random Forest model the R-Squared value of .6171 and the RMSE is 1
 The tuned random forest model can provide accurate predictions of the sales, although the predictions are not finite so they can change and should not be looked at as a definite outcome more as a estimation. 
 
 
-# Recommendations:
+## Recommendations:
 
 That we continue to moniter these variables and maybe add new variables to determine if there is anymore factors into the sales increase or decrease. 
 
-# Limitations & Next Steps:
+## Limitations & Next Steps:
 
 The next steps would be to continue to moniter other catagories and see if it has correlation with sales. 
 
-# For further information:
+## For further information:
 
 For any additional questions, please contact rohnjosh19@gmail.com
