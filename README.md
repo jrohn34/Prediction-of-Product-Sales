@@ -1,5 +1,6 @@
 What is the cause for Higher Sales. 
 We created many different graphs and data columns to determine this.
+
 Author: Joshua Rohn
 
 Business problem:
