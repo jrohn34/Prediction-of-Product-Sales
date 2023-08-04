@@ -1,6 +1,34 @@
-# Prediction-of-Product-Sales
-My project right now is to  take in data from a company and take their  sales and clean the data up. After that  we were instructed to  create graphs upon this data and analyze the graphs. My assumption is further on we will make assumptions on the Sales in the future. 
-![download](https://github.com/jrohn34/Prediction-of-Product-Sales/assets/138350298/fe14f246-7666-400c-95a8-0f149ee7f33f)
-![download](https://github.com/jrohn34/Prediction-of-Product-Sales/assets/138350298/1b6ced48-2971-43df-8524-0ebef7ae63cd)
+What is the cause for Higher Sales. 
+We created many different graphs and data columns to determine this.
+Author: Joshua Rohn
 
-For the two visuals I have decided to go with a count plot and a box plot because the box plot shows outliers in the data. The information that I have gathered from the count plot is the majority of outlets are medium sized. 
+Business problem:
+Trying to find a reason for the end of season sales and how can it be improved.
+
+Data:
+The data is taken from 'sales_predictions_2023.csv'
+
+Methods
+We cleaned the data with no leakage. The graphs are one variable and then two variable with the target variable Outlet_Sales as the second variable.
+
+Visual 1 Title
+
+
+Sentence about visualization.
+
+Visual 2 Title
+Model
+Describe your final model
+
+Report the most important metrics
+
+Refer to the metrics to describe how well the model would solve the business problem
+
+Recommendations:
+That we continue to moniter these variables and maybe add new variables to determine if there is anymore factors into the sales increase or decrease. 
+
+Limitations & Next Steps
+The next steps would be to continue to moniter other catagories and see if it has correlation with sales. 
+
+For further information
+For any additional questions, please contact rohnjosh19@gmail.com
